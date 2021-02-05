@@ -1,2 +1,7 @@
-//º¯ÊıÉùÃ÷
+#ifndef __ADD_H__
+#define __ADD_H__
+
+//å‡½æ•°å£°æ˜
 int ADD(int x, int y);
+
+#endif

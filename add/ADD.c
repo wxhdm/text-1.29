@@ -1,4 +1,4 @@
-//º¯Êý¶¨Òå
+//å‡½æ•°å®šä¹‰
 int ADD(int x, int y)
 {
 	int z = x + y;
